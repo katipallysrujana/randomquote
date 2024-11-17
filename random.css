@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 20px;
+}
+.quote{
+    font-size: 20px;
+    background-color: black;
+    color: azure;
+    display: flex;
+    
+}
+button{
+    background-color: grey;
+    border-radius: 40px;
+}
